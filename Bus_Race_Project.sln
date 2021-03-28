@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bus_Race_Project", "Bus_Race_Project.csproj", "{B01BBB8F-8E11-4DCF-8840-A11453162419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bus_Race_ProjectTests", "..\Bus_Race_ProjectTests\Bus_Race_ProjectTests.csproj", "{08E89B2E-105D-44C5-A97D-540406E8ED72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01BBB8F-8E11-4DCF-8840-A11453162419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01BBB8F-8E11-4DCF-8840-A11453162419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01BBB8F-8E11-4DCF-8840-A11453162419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01BBB8F-8E11-4DCF-8840-A11453162419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E89B2E-105D-44C5-A97D-540406E8ED72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E89B2E-105D-44C5-A97D-540406E8ED72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E89B2E-105D-44C5-A97D-540406E8ED72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E89B2E-105D-44C5-A97D-540406E8ED72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D07A5F6-D830-4E2E-9233-79802E8307F2}
+	EndGlobalSection
+EndGlobal
